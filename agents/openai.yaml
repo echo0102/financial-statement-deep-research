@@ -1,0 +1,4 @@
+interface:
+  display_name: "Financial Statement Deep Research"
+  short_description: "Deep financial statement analysis workflows"
+  default_prompt: "Use $financial-statement-deep-research to analyze the latest financial statements, compare them with prior years and quarters, and produce a structured report."
