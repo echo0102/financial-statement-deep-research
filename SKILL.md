@@ -43,6 +43,8 @@ Default to the light report unless the user asks for more depth.
   - valuation memo
   - technology or structural-change impact memo
 
+When the user asks for a Buffett-style analysis, load [references/buffett-financial-analysis.md](references/buffett-financial-analysis.md) and rewrite the conclusion through that lens after the financial-core work is complete.
+
 ## Source Priority
 
 Read [references/source-priority.md](references/source-priority.md) before using secondary material. State clearly when a statement is sourced directly from filings versus inferred.
@@ -136,6 +138,20 @@ Industry work should answer:
 
 Do not let cycle narratives override filing evidence.
 
+## Buffett-Style Overlay
+
+Use the Buffett-style overlay only after the accounting picture is clear. The point is not to imitate Buffett's tone. The point is to force the analysis through a stricter business-quality lens.
+
+Answer, in order:
+
+1. does the company have a real moat, and what kind of moat is it?
+2. does the business require heavy capital just to stand still?
+3. do profits turn into cash with acceptable consistency?
+4. how dependent is the result on commodity prices, interest rates, credit conditions, or other external variables?
+5. is management allocating capital in a way that improves per-share value?
+
+State clearly when a company is good but not Buffett-style good. Many cyclical, commodity, trading, and balance-sheet-heavy companies can be strong operators without being exceptional long-term compounding machines.
+
 ## Valuation and Shareholders
 
 When the user asks for valuation, load [references/valuation-playbook.md](references/valuation-playbook.md). When the user asks about major holders, buybacks, dividends, or incentives, load [references/shareholder-capital-allocation.md](references/shareholder-capital-allocation.md).
@@ -167,6 +183,7 @@ Use scripts when they reduce arithmetic errors or repetitive formatting.
 - identify when seasonality makes a sequential comparison misleading
 - prefer concise tables before prose when comparing many periods
 - if a figure comes from a note instead of the face statements, say so
+- in Buffett-style mode, distinguish clearly between a good company, a good stock, and a good business model
 
 ## Deliverable Shape
 
@@ -179,3 +196,12 @@ Use the templates in [references/report-templates.md](references/report-template
 5. industry-cycle position
 6. valuation or capital allocation, if requested
 7. risks, open questions, and what would change the view
+
+For Buffett-style reports, use this order instead:
+
+1. business-quality conclusion
+2. moat analysis
+3. capital intensity and capital allocation
+4. cash-flow quality versus accounting profit
+5. cycle and price dependence
+6. what would make the business more or less Buffett-compatible

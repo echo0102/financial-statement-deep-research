@@ -39,12 +39,13 @@ Use these as starting points. Trim sections that do not add value.
 
 ## Buffett-Style Variant
 
-1. What business economics do the statements imply
-2. Can returns be understood without heroic assumptions
-3. Does cash confirm earnings
-4. How much leverage or accounting discretion is supporting the result
-5. Is management allocating capital rationally
-6. What part of the result is cyclical versus durable
+1. Business-quality conclusion
+2. Moat: what kind, how durable, and whether it survives normal macro conditions
+3. Capital intensity: capex, working capital, and reinvestment burden
+4. Cash-flow quality: do reported profits become owner earnings
+5. Capital allocation: debt, buybacks, dividends, acquisitions, dilution
+6. External dependence: commodity prices, rates, regulation, credit, FX, fair-value effects
+7. Final judgment: good company, good stock, good business model, or some combination
 
 ## Risk Memo Variant
 
